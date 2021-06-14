@@ -18,7 +18,7 @@ Dependency:
 
 ## Algorithm
 **RRT(Rapid Random Tree)**
-<img src="result/rrt_algorithm.png" width="600">
+<img src="result/rrt_algorithm.PNG" width="600">
 
 ## Result
 ```<img src="result/rrt_result.png" width="500">```
